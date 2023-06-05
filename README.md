@@ -33,10 +33,50 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zk1Lm2b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a new role "Supreme Admin".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JUUSv21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Gave "Supreme Admin" all permissions in Tickets.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/F8CJrga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Gave "Supreme Admin" all permissions in Tasks.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/cpurFhj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Gave "Supreme Admin" all permissions in Knowledge.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JH5aAzb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created a new department.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/aftxXeu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+New team created "Level II Support".
 </p>
 <br />
 
@@ -44,14 +84,47 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adjusted settings/users so anyone can register tickets.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nFtSi07.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Added fictitious agent Wonder Woman.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/P4TlF2X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Added fictitious user Super Man from the Users panel.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/t1DlmP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created three new SLAs (Sev-A, B & C).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5SoIwxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created a new help topic, "personal computer issue".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lvqdkI8.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created an additional "help" item; password reset.
+</p>
+<br />
+
