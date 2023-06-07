@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- osTicket:
+- osTicket.
 - Roles.
 - Departments.
 - Teams.
