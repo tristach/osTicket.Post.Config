@@ -81,14 +81,6 @@ New team created "Level II Support".
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Adjusted settings/users so anyone can register tickets.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/nFtSi07.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
